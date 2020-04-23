@@ -1,4 +1,8 @@
-# static-125
+# ylines.org
+
+## Introduction
+
+English | [中文](https://cn.ylines.org/static-y.html)
 
 ## Usage
 
@@ -7,7 +11,7 @@
 npm i
 
 # generate blog
-node index.js --baseURL "https://ylines.org" --title "Y Lines" --fromPath "posts" --destPath "build" --themePath "themes/ylines.org"
+npm run deploy
 ```
 
 ## Params

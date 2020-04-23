@@ -1,0 +1,14 @@
+{
+  "name": "ylines-en",
+  "profile": "timConsole",
+  "regions": ["us-east-1"],
+  "type": "static",
+  "static": {
+    "dir": "."
+  },
+  "stages": {
+    "production": {
+      "domain": "ylines.org"
+    }
+  }
+}

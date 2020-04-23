@@ -6,7 +6,8 @@
 	"repository": "ylines/static",
 	"author": "timqian",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"build": "node index.js --baseURL 'https://cn.ylines.org' --title 'Y Lines' --fromPath 'posts' --destPath 'build' --themePath 'themes/ylines.org'",
+		"deploy": "npm run build && up deploy production"
 	},
 	"keywords": [
 		"blog",
