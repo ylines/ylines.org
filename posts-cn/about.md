@@ -19,7 +19,7 @@ ylines 的意思是 "Build X in Y lines", 我想产出一些列的小产品, 每
 ## 什么是 Y Lines
 
 - **全称**: Build X in Y lines
-- **聚集地**: [YLines.org](https://ylines.org) 和同名的 [GitHub 组织](https://github.com/YLines), 还会有一个聊天室
+- **聚集地**: [YLines.org](https://ylines.org) 和同名的 [GitHub 组织](https://github.com/YLines), 还有一个[聊天室 (Telegram)](https://t.me/ylines)
 - **主题**: 产出一系列的用 Y 行代码实现的开源项目, 搭配题为 "Build X in Y lines" 的博客.
 
   > 例如 [125 行代码实现一个静态博客生成器](/static-y.html)
@@ -44,7 +44,7 @@ ylines 的意思是 "Build X in Y lines", 我想产出一些列的小产品, 每
 
 ## 如何加入
 
-Y Lines 欢迎
+Y Lines 还在筹备中, 欢迎各种朋友加入一起来玩
 
 - 设计师: 优雅的设计令人胃口大增
 - 工程师: 好的创意加上几百行代码, 或许可以帮助很多人
@@ -52,4 +52,4 @@ Y Lines 欢迎
 - 翻译: 希望讲其他语言的地区也有受众, 而不只是做中国的 XXX
 - 赞助商: 提供派对经费
 
-如果你对 Y Lines 感兴趣, 欢迎填写[这个简单的表单](https://forms.gle/sfTnrWnF7b3dPFY39)加入团队
+如果你对 Y Lines 感兴趣, 欢迎填写[这个简单的表单](https://github.com/ylines/join/issues/new?assignees=&labels=&template=join-ylines-org.md&title=Join+ylines.org)加入团队
