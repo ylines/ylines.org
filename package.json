@@ -8,7 +8,7 @@
 	"scripts": {
 		"build-cn": "node index.js --baseURL 'https://cn.ylines.org' --title 'Y Lines' --fromPath 'posts-cn' --destPath 'build-cn' --themePath 'themes/ylines.org'",
 		"build-en": "node index.js --baseURL 'https://ylines.org' --title 'Y Lines' --fromPath 'posts-en' --destPath 'build-en' --themePath 'themes/ylines.org'",
-		"deploy": "npm run build && up deploy production"
+		"deploy-cn": "cd build-cn && up deploy production"
 	},
 	"keywords": [
 		"blog",
